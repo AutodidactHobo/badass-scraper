@@ -1,0 +1,7 @@
+scripts/
+├── badass_scraper.py        <-- main orchestrator
+├── scrape_sources.py        <-- Phase 1
+├── extract_content.py       <-- Phase 2
+├── enrich_semantics.py      <-- Phase 3
+├── build_prompt.py          <-- Phase 4
+└── generate_article.py      <-- Phase 5
