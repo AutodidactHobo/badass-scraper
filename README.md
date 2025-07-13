@@ -19,4 +19,5 @@ Turn high-signal feeds into strategic summaries - fast, local, and LLM-enhanced.
 git clone badass-scraper
 cd badass-scraper
 pip install -r requirements.txt
+playwright install
 python badass_scraper.py
